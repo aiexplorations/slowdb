@@ -1,0 +1,22 @@
+# Core dependencies
+numpy>=1.20.0        # For vector operations
+protobuf>=3.19.0     # For serialization
+grpcio>=1.44.0       # For network communication
+mmh3>=3.0.0          # For consistent hashing
+pydantic>=2.0.0      # For data validation and settings management
+aiohttp>=3.8.0      # For HTTP client
+
+# Development dependencies
+pytest>=6.0          # Testing framework
+pytest-cov>=2.0      # Test coverage reporting
+black>=22.0          # Code formatting
+isort>=5.0           # Import sorting
+mypy>=0.900          # Type checking
+pylint>=2.8.0        # Code linting
+pre-commit>=2.17.0   # Git hooks for code quality
+pytest-asyncio>=0.23.0
+
+# Documentation
+sphinx>=4.0          # Documentation generator
+sphinx-rtd-theme>=1.0  # Documentation theme
+scikit-learn>=1.0    # For machine learning tasks
