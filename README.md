@@ -1,4 +1,4 @@
-# slowdb
+# SlowDB
 SlowDB is an educational vector database implementation focused on learning database internals, vector storage, and search mechanisms. Built entirely in Python for clarity and learning purposes, it prioritizes clear implementation over performance.
 
 ## Learning Objectives
